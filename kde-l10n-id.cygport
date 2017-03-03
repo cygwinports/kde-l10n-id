@@ -6,3 +6,5 @@ RELEASE=1
 CATEGORY="KDE"
 SUMMARY="KDE Indonesian translation files"
 DESCRIPTION="KDE Indonesian translation files"
+
+ARCH=noarch
